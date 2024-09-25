@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ohoaquin.github.io/sitemap.xml.gz
+Sitemap: https://ohoaquin.github.io/app/sitemap.xml.gz
+Sitemap: https://ohoaquin.github.io/assets/sitemap.xml.gz
+Sitemap: https://ohoaquin.github.io/css/sitemap.xml.gz
+Sitemap: https://ohoaquin.github.io/data/sitemap.xml.gz
+Sitemap: https://ohoaquin.github.io/includes/sitemap.xml.gz
+Sitemap: https://ohoaquin.github.io/item/sitemap.xml.gz
+Sitemap: https://ohoaquin.github.io/src/sitemap.xml.gz
